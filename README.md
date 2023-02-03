@@ -1,1 +1,1 @@
-# ML_Study_SKT_FLY_AI
+### SKT Fly AI 프로그램에서 교육받은 내용을 정리한 파일입니다.
